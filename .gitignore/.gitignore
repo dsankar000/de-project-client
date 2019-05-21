@@ -1,0 +1,11 @@
+# nodeJS package files
+node_modules
+
+# yarn logs
+yarn-error.log
+
+# Test scripts (points to Prof's test dir clone)
+run_tests.sh
+
+# Emacs backups
+*~
