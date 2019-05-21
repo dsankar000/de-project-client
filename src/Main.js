@@ -40,7 +40,7 @@ class Main extends Component {
 
 
 
-            
+
             <Route path="/Faculty/CreateCourse" component={CreateCourse}/>
             <Route path="/Faculty/DeleteCourse" component={DeleteCourse}/>
             <Route path="/Faculty/UpdateCourse" component={UpdateCourse}/>
